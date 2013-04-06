@@ -10,7 +10,7 @@ var Spacebrew = require('spacebrew')
 var server = "sandbox.spacebrew.cc";
 var name = "Clock";
 var description = "Jeff's Node test!";
-var sb = new Spacebrew.Spacebrew.Client( server, name, description );
+var sb = new Spacebrew.Client( server, name, description );
 
 sb.addPublish("tick", "string", "The tick of a clock!");  // create the publication feed
 
