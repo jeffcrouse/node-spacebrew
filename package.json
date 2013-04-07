@@ -17,7 +17,7 @@
     "node": "*"
   },
   "readmeFilename": "README.md",
-  "gitHead": "acf12088cc3ca78fae8250920a923b6f7d02265e",
+  "gitHead": "562520984b46cbbd2ab2ff7f5a4e8bbbe501cfba",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
