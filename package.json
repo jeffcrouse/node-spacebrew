@@ -2,7 +2,7 @@
   "author": "Jeff Crouse <jefftimesten@gmail.com>",
   "name": "spacebrew",
   "description": "Spacebrew implementaion for Node (https://github.com/Spacebrew/spacebrew.js)",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": {
     "type": "git",
     "url": "https://github.com/jefftimesten/node-spacebrew"
