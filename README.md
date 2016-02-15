@@ -7,8 +7,11 @@
 
 ##Introuction
 
-This module is the [sb-1.4.1.js](https://github.com/Spacebrew/spacebrew.js/blob/master/library/sb-1.4.1.js) you can find at [the main Spacebrew.js repo](https://github.com/Spacebrew/spacebrew.js) but packaged as an NPM Module.  Check out [Getting started with Spacebrew](http://docs.spacebrew.cc/gettingstarted/) for more information about Spacebrew.
+This module is the [sb-1.4.1.js](https://github.com/Spacebrew/spacebrew.js) you can find at [the main Spacebrew.js repo](https://github.com/Spacebrew/spacebrew.js) but packaged as an NPM Module.  Check out [Getting started with Spacebrew](http://docs.spacebrew.cc/gettingstarted/) for more information about Spacebrew.
 
+##Note
+
+This is a spacebrew CLIENT library. To install a Spacebrew server, check out [Spacebrew on Github](https://github.com/Spacebrew/spacebrew.).
 
 ##Setup
 
